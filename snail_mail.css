@@ -1,0 +1,82 @@
+@charset "utf-8";
+body {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 100%;
+  background-color: rgb(65,105,225);
+  margin: 0;
+}
+
+
+a:link, a:visited { color: maroon; }
+a:focus, a:hover{color: #013220 } a:active { color: blue; }
+a {  text-decoration: none; border-bottom: 1px dotted; padding-bottom: .2em;}
+
+div {
+width: 85%
+padding 3px
+}
+
+header {
+  font: "Libre Baskerville", serif;
+  font-style: italic;
+  font-weight: 5px
+  font-size: 1000%;
+  color: white;
+ text-shadow: yellow
+ text-align: left;
+  margin-left: 3%
+}
+
+header p {
+  font-style: italic;
+  font-size: 200%
+  margin-top: 12px;
+}
+header h1 {     margin-top: 3em;
+}
+
+nav {
+    background-color: white);
+}
+
+h3 {
+  font-family: charset, serif;
+  font-style: italic;
+  color: blue;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  font-weight: 150%
+   }
+
+ hr {
+ width: 100%;
+ height: 1.25px;
+ background-color:rgb(65,105,225);
+ }
+
+main {
+  font-family: charset, serif;
+  color: black;
+  background-color: rgb(234,234,234);
+  line-height: 1.8em;
+   padding: 5em; border: 10, 10; 
+  margin-right: 28%;
+  margin-left: 2.5%;
+ }
+
+p {
+  text-indent: 10 px
+}
+
+h2 {
+  font-family: "Libre Baskerville", serif;
+  color: rgb(65,105,225)
+  letter-spacing: 3em
+}
+
+
+aside {
+  padding: 1em;  
+  text-align: left;
+  margin-left: 30%
+}
